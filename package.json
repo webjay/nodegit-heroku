@@ -1,0 +1,17 @@
+{
+  "name": "nodegit-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node run.js",
+    "preinstall": "",
+    "postinstall": "BUILD_ONLY=true npm install nodegit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webjay/nodegit-heroku.git"
+  },
+  "dependencies": {
+    "nodegit": "0.11.1"
+  }
+}
