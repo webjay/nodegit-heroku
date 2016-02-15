@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node run.js",
-    "preinstall": "",
-    "postinstall": ""
+    "start": "node run.js"
   },
   "repository": {
     "type": "git",
