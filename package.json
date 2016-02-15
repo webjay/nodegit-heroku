@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node run.js",
     "preinstall": "",
-    "postinstall": "BUILD_ONLY=true npm install nodegit"
+    "postinstall": ""
   },
   "repository": {
     "type": "git",
