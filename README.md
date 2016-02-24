@@ -17,3 +17,6 @@ https://github.com/nodegit/nodegit/issues/845
 
 The solution was to `heroku buildpacks:add --index 1 https://github.com/ddollar/heroku-buildpack-apt` and adding this file:
 https://github.com/webjay/nodegit-heroku/blob/master/Aptfile
+
+This helped on an existing app:
+https://github.com/heroku/heroku-repo
