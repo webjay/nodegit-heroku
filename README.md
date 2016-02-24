@@ -3,6 +3,7 @@
 Example of problem getting nodegit installed on Heroku:
 
 Error: GLIBCXX_3.4.20 not found
+Error: Cannot find module '../build/Debug/nodegit.node'
 
 - `git clone https://github.com/webjay/nodegit-heroku.git && cd nodegit-heroku`
 - `brew install heroku-toolbelt`
